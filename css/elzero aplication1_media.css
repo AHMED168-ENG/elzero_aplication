@@ -1,0 +1,13 @@
+@media(max-width:992px) {
+    
+}
+@media(max-width:768px) {
+    .nave_bar .upper_nav > div.left{
+        width:100%;
+        display: flex;
+        justify-content: space-between
+    }
+}
+@media(max-width:576px) {
+    
+}
